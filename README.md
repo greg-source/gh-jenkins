@@ -18,5 +18,5 @@ https://hub.docker.com/repository/docker/gregsource/gh-jenkins/general
 
 ## Example 
 
-![alt text](https://github.com/greg-source/gh-jenkins/tree/main/images/image1.png)
-![alt text](https://github.com/greg-source/gh-jenkins/tree/main/images/image2.png)
+![alt text](https://github.com/greg-source/gh-jenkins/tree/main/images/image1.png?raw=true "Title")
+![alt text](https://github.com/greg-source/gh-jenkins/tree/main/images/image2.png?raw=true "Title")
