@@ -17,6 +17,7 @@ GH_REPO - url of repository where you want to report status(make sure your accou
 https://hub.docker.com/repository/docker/gregsource/gh-jenkins/general
 
 ## Example 
-
+Create basic pod template in manage/configureClouds endpoint
 ![alt text](images/image1.png?raw=true "Title")
+Use it in pipeline with correct syntax
 ![alt text](images/image2.png?raw=true "Title")
